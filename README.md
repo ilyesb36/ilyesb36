@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ilyesb36/ilyesb36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ilyès 23 y.o ! :sunglasses:
 
-Here are some ideas to get you started:
+I am currently a master's student, engaged in a work-study program that enables me to deepen my skills in the field of development. Alongside my academic studies, I am working as an apprentice at a company focused on technologies like React, Node.js, and AWS. This dual-learning experience allows me to bridge the gap between theory and practical application, fostering my growth in the development field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find me around the web 🌎:
+- Learning in public on <a href="https://www.twitch.tv/moonlytt10">Twitch</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/ilyesboulkrinat/">LinkedIn</a> 💼
+- Currently working on a portefolio !
+
+
+<br>
+
+</details>
