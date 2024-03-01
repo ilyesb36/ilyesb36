@@ -8,7 +8,7 @@ I am currently a master's student, engaged in a work-study program that enables 
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://www.twitch.tv/moonlytt10">Twitch</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/ilyesboulkrinat/">LinkedIn</a> 💼
-- Currently working on a portefolio !
+- Currently working on a portfolio !
 
 
 <br>
