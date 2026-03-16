@@ -1,15 +1,21 @@
-### Hi there 👋
+# Hi, I'm Ilyès 👋
 
-I'm Ilyès 23 y.o ! :sunglasses:
+I'm a 25-year-old software developer based in Paris.
 
-I am currently a master's student, engaged in a work-study program that enables me to deepen my skills in the field of development. Alongside my academic studies, I am working as an apprentice at a company focused on technologies like React, Node.js, and AWS. This dual-learning experience allows me to bridge the gap between theory and practical application, fostering my growth in the development field.
+## About me
 
+- Full-stack developer
+- I enjoy building software, tools and systems
+- Interested in backend architecture, infrastructure and scalable applications
+- Curious by nature and always learning new technologies
 
-## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/ilyesboulkrinat/">LinkedIn</a> 💼
-- Currently working on a portfolio !
+## What I work on
 
+- Web applications
+- APIs and integrations
+- Internal tools
+- Automation and data workflows
 
-<br>
+## Contact
 
-</details>
+Email: ilyesb36130@gmail.com
